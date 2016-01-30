@@ -1,3 +1,3 @@
 # Plesk-OS
-In this repository , all the source files for the operating system will be uploaded and commited. 
+In this branch all resource files will be included  
 
