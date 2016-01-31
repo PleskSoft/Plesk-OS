@@ -2,4 +2,4 @@
 # Plesk-OS
 In this repository , all the source files for the operating system will be uploaded and commited. 
 #Screenshots 
-[alt] https://snetwork.ga/content/uploads/sngine_2678927ce2fa54697af08ee2d9fc1b58.png
+![alt] https://snetwork.ga/content/uploads/sngine_2678927ce2fa54697af08ee2d9fc1b58.png
